@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181198258623",
+    "project_id": "padeltour-9fadc",
+    "storage_bucket": "padeltour-9fadc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181198258623:android:b4fedaf4a215486e61210a",
+        "android_client_info": {
+          "package_name": "com.padeltour.padeltour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrujeVMl-rJsHm7ZyN206yVrDkNHRaxFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

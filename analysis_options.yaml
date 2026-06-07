@@ -1,0 +1,12 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - lib/firebase_options.dart
+
+linter:
+  rules:
+    # Doc comments are required for packages/libraries but too heavy for an app.
+    public_member_api_docs: false
